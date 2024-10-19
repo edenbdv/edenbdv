@@ -1,12 +1,10 @@
 # 💫 About Me:
 🔍 Seeking job opportunities in software development.<br>
-🌱 Skills:<br><br>
+🌱 Skills:<br>
 - Web Development: **React**, **Node.js**, **Express**, **MongoDB**, **Mongoose**<br>
 - Programming Languages: **JavaScript**, **Java**, **Python**, **C++**<br>
 - Database Management: **MySQL**, **MongoDB**<br>
 - Software Development Practices: **Object-Oriented Programming (OOP)**, **CI/CD**, **Docker**
-
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/eden-ben-david) 
