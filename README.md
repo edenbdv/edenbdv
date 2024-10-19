@@ -6,6 +6,7 @@
 - Database Management: **MySQL**, **MongoDB**<br>
 - Software Development Practices: **Object-Oriented Programming (OOP)**, **CI/CD**, **Docker**
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/eden-ben-david) 
 
