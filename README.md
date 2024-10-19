@@ -4,7 +4,7 @@
 - Web Development: **React**, **Node.js**, **Express**, **MongoDB**, **Mongoose**<br>
 - Programming Languages: **JavaScript**, **Java**, **Python**, **C++**<br>
 - Database Management: **MySQL**, **MongoDB**<br>
-- Software Development Practices: **Object-Oriented Programming (OOP)**, **CI/CD**, **Docker**
+- Software Development Practices: **Object-Oriented Programming (OOP)** ,**Design Patterns**, **CI/CD**, **Docker**
 
 
 ## 🌐 Socials:
