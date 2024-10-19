@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔍 Seeking job opportunities in software development.<br>
-🌱 Skills:<br>
+🌱 Skills:
 - Web Development: **React**, **Node.js**, **Express**, **MongoDB**, **Mongoose**<br>
 - Programming Languages: **JavaScript**, **Java**, **Python**, **C++**<br>
 - Database Management: **MySQL**, **MongoDB**<br>
