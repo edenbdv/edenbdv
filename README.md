@@ -6,6 +6,7 @@
 
 - **Languages:** Python, JavaScript, Java, SQL
 - **Backend & APIs:** FastAPI, Node.js, Express, REST APIs, SQLAlchemy, Pydantic, JWT
+- **Architecture**: Microservices, Event-Driven Architecture, Saga Pattern, Outbox/Inbox, API Gateway
 - **Databases & Search:** PostgreSQL, MySQL, MongoDB, Elasticsearch
 - **Caching & Messaging:** Redis, Celery/RabbitMQ, Kafka
 - **Infrastructure & Tools:** Docker, Linux, Git, Kibana
